@@ -3,7 +3,7 @@
 Drop tracks or folders onto the window. Each file is measured to find its *real*
 resolution, compared against the best *official* release quality, and given a verdict.
 
-**Start:** double-click `dist\HiRes Checker.exe` (standalone, no Python needed). You can
+**Start:** double-click `Lossless_Verifier.exe` (standalone, no Python needed). You can
 also drag files onto the exe, or run from source with `Run File Checker.bat`.
 
 The exe needs FFmpeg. It uses `bin\ffmpeg.exe` + `bin\ffprobe.exe` next to the exe if
